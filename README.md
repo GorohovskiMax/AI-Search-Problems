@@ -1,11 +1,5 @@
 # 8-Puzzle Problem Solver 🧩 
 
-## Table of Contents
-- [Overview📄](#overview📄)
-- [Data Structures🗂️](#data-structures-🗂️)
-- [Implementations📘](#implementations📘)
-- [Heuristics🧠](#heuristics-🧠)
-
 ## Overview📄
 The Project folder includes two Python files: `Node.py` and `Tiles.py`. These are used to implement an 8-puzzle solver using the search algorithms: **BFS (Breadth-First Search)**, **IDDFS (Iterative Deepening Depth-First Search)**, **GBFS (Greedy Best-First Search)** and **A***. The program receives a sequence of 9 digits (8 numbers numerated from 1 - 8 and an additional 0 representing the blank tile) and transforms it into a node with a matrix representing that sequence. The program then iterates through every algorithm and returns the **algorithm name, how many nodes were expanded to reach the goal and what is the path that we have to make to reach the goal**
 
