@@ -1,7 +1,6 @@
 # 8-Puzzle Problem Solver 🧩 
 
 ## Table of Contents
-- [Author📝](#author📝)
 - [Overview📄](#overview📄)
 - [Data Structures🗂️](#data-structures-🗂️)
 - [Implementations📘](#implementations📘)
